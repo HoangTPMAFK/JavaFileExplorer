@@ -9,7 +9,8 @@
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
-            "projectName": "JavaFileExplorer_67990902"
+            "projectName": "JavaFileExplorer_67990902",
+            "vmArgs": "--module-path \"/home/hoang/.scenebuilder/javafx/javafx-sdk-21.0.2/lib/\" --add-modules=javafx.controls,javafx.fxml,javafx.graphics"
         },
         {
             "type": "java",
